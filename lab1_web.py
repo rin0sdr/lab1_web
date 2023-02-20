@@ -8,7 +8,7 @@ result = data['result']
 
 print(result) # prints "2x-2"
 
-# Create a web page in Python
+#web page in Python
 from flask import Flask
 
 app = Flask(__name__)
